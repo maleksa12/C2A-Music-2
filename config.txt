@@ -1,6 +1,6 @@
 token= NDkwODg2MzYwMTExMjUxNDc3.XYyHiA.Xzqq_CXr6_LjOY-32xQ_59EQolQ
 owner= 423793817624379392
-prefix= #
+prefix= @
 game= C2A Bot
 stayinchannel=true
 songinstatus=false
